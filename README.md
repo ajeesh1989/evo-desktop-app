@@ -1,3 +1,9 @@
+## 🚀 Download Evo
+
+👉 [Download Latest Release](https://github.com/ajeesh1989/evo-desktop-app/releases/latest)
+
+Install like a normal Windows app.
+
 # evo-desktop-app
 
 🧠 Evo – Desktop Robot Companion
