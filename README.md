@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Built%20With-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
-
 <p align="center">
-  <a href="https://github.com/ajeesh1989/evo-desktop-app/releases">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Evo-Latest%20Release-00C853?style=for-the-badge" />
+  <b>⬇️ Download Evo for Windows</b><br><br>
+  <a href="https://github.com/ajeesh1989/evo-desktop-app/releases/latest">
+    <img src="https://img.shields.io/badge/Get%20Latest%20Installer-Click%20Here-success?style=for-the-badge" />
   </a>
 </p>
 
