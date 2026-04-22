@@ -1,0 +1,60 @@
+name: glitch_garden
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flame: ^1.30.1
+  flame_forge2d: ^0.19.0+4
+  window_manager: ^0.5.1
+  flutter_acrylic: ^1.1.4
+  desktop_drop: ^0.7.0
+  battery_plus: ^7.0.0
+  flutter_tts: ^4.2.5
+  http: ^1.6.0
+  permission_handler: ^11.3.1
+  provider: ^6.1.5+1
+  just_audio: ^0.10.5
+  audio_session: ^0.2.3
+  font_awesome_flutter: ^11.0.0
+  path_provider: ^2.1.5
+  path: ^1.9.1
+  image_picker: ^1.2.1
+  camera: ^0.12.0+1
+  file_picker: ^11.0.2
+  camera_windows: ^0.2.6+4
+  speech_to_text: ^7.3.0
+  audioplayers: ^6.6.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.4
+
+dependency_overrides:
+  permission_handler: ^11.3.1  
+
+# 🔥 APP ICON CONFIG (Evo)
+flutter_launcher_icons:
+  windows:
+    generate: true
+    image_path: "assets/images/evo.png"
+    icon_size: 256
+
+flutter:
+  uses-material-design: true
+
+  # ✅ ASSETS
+  assets:
+    - assets/images/evo.png
+    - assets/sounds/
